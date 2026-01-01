@@ -14,6 +14,7 @@
     },
     "ios": {
       "supportsTablet": true
+      }
     },
     "android": {
       "adaptiveIcon": {
@@ -26,4 +27,4 @@
       "favicon": "./assets/favicon.png"
     }
   }
-}
+
